@@ -30,9 +30,9 @@ All data for the Java Inventory Management System is stored in a relational data
 
 3. Open in IDE: Import the project into your preferred IDE (Eclipse, IntelliJ, etc.) as a Java project.
 
-4. Configure Database Connection: In the DatabaseConfig.java file, update the database connection details to match your MySQL credentials.
+4. Configure Database Connection: In the MainConnection.java file, update the database connection details to match your MySQL credentials.
 
-5. Run the Application: Locate the main Java file (Main.java) and run it to start the Inventory Management System.
+5. Run the Application: Locate the main Java file (ManagerMenu.java) and run it to start the Inventory Management System.
 
 ## Contribute
 Contributions to the project are always welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
