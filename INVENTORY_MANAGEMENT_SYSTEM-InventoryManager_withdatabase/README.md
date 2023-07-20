@@ -1,4 +1,4 @@
-# Java War Management System
+# Java Inventory Management System
 
 This GitHub repository contains a Java project for a Inventory Management System. The system is designed to help Inventory managers efficiently manage their inventory and streamline various processes related to inventory management. It consists of multiple JFrames that are combined to form a comprehensive Inventory management solution.
 
